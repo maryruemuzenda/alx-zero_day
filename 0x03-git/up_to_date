@@ -1,2 +1,2 @@
 #!/git/bash
-Touch up_to_date
+["git pull"] Touch up_to_date
